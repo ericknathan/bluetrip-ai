@@ -1,0 +1,45 @@
+0 Bangus
+1 Carpa Cabeçuda
+2 Barbo Manchada
+3 Bagre
+4 Percha Trepadeira
+5 Barbudo-de-Quatro-Dedos
+6 Enguia de Água Doce
+7 Percaleta de Vidro
+8 Gobídeo
+9 Peixe Dourado
+10 Gurami
+11 Carpa Herbívora
+12 Baiacu Verde de Pontos
+13 Carpa Indiana
+14 Tarpão Indo-Pacífico
+15 Jaguarete
+16 Peixe-Lixeiro
+17 Peixe-Faca
+18 Peixe-Cachimbo de Focinho Longo
+19 Peixe-Mosquito
+20 Peixe-Lama
+21 Tainha
+22 Pangácio
+23 Perca
+24 Peixe-Scat
+25 Barbo Prateado
+26 Carpa Prateada
+27 Perca Prateada
+28 Cabeça-de-Cobra
+29 Pampo
+30 Tilápia
+31 Tubarão-peregrino
+32 Tubarão-de-ponta-preta
+33 Tubarão-azul
+34 Tubarão-touro
+35 Tubarão-martelo
+36 Tubarão-limão
+37 Tubarão-mako
+38 Tubarão-enfermeiro
+39 Tubarão-tigre-da-areia
+40 Tubarão-raposa
+41 Tubarão-tigre
+42 Tubarão-baleia
+43 Tubarão-branco
+44 Tubarão-de-ponta-branca
