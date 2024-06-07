@@ -51,16 +51,11 @@ async def identify_specie(file: Annotated[bytes, File()]):
 
     prediction = model.predict(data)
     index = np.argmax(prediction)
-    class_name = class_names[index]
+    class_name = class_names[index][2:].strip()
     confidence_score = prediction[0][index]
 
     return {
-        "class_name": class_name[2:].strip(),
-        "confidence_score": round(confidence_score * 100, 3)
+        "name": class_name,
+        "score": round(confidence_score * 100, 3),
+        "type": "Tubarão" if class_name.startswith("Tubarão") else "Peixe"
     }
-
-## Execução do servidor HTTP do FastAPI utilizando Uvicorn
-if __name__ == "__main__":
-    uvicorn.run("app:app", host="127.0.0.1", port=8000, reload=True)
-
-
